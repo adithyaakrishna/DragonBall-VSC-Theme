@@ -23,15 +23,7 @@ Yo! I'm A Theme Based On The Anime Dragon Ball Super! <br>
 ## Preview
 ![Cover](images/1.png)
 ![Cover 2](images/2.png)
-
-## Installation
-- Install [Visual Studio Code](https://code.visualstudio.com/)
-- Launch Visual Studio Code
-- Go to the Extensions View using `CTRL+Shift+X`
-- Search for `aaishika.rick-and-morty`
-- Click on Install to install the Color Theme
-- Click on Reload to reload VSCode
-- From the menu bar click: `Code > Preferences > Color Theme > Pick Rick and Morty`
+        
 
 ## Collaborators
 - [Adithya Krishna](https://www.github.com/thedevilx)

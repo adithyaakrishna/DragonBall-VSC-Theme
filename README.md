@@ -18,11 +18,9 @@ Yo! I'm A Theme Based On The Anime Dragon Ball Super! <br>
 ![Stars GitHub](https://img.shields.io/github/stars/thedevilx/dbs-vsc-theme)
 ![Language](https://img.shields.io/github/languages/top/thedvilx/dbs-vsc-theme)
 ![Size](https://img.shields.io/github/repo-size/thedevilx/dbs-vsc-theme)
-![Website](https://img.shields.io/website?down_color=Lightgrey&down_message=Down&up_color=green&up_message=Up&url=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3Daaishika.rick-and-morty)
 
 ## Preview
-![Cover](images/1.png)
-![Cover 2](images/2.png)
+![Cover](pics/1.png)
         
 
 ## Collaborators

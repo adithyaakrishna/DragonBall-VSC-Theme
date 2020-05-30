@@ -1,0 +1,31 @@
+{
+    "name": "dragon-ball",
+    "displayName": "Dragon Ball",
+    "description": "Yo! I'm A Theme Based On The Anime Dragon Ball Super",
+    "version": "1.0.0",
+    "publisher": "AdithyaKris",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "pics/dbs.png",
+    "galleryBanner": {
+      "color": "#101216",
+      "theme": "dark"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dragon Ball Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/DBS Anime Theme-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/thedevilx/dbs-vsc-theme.git"
+      }
+}

@@ -1,5 +1,5 @@
-# README
 # Dragon Ball Anime Based Visual Studio Code Theme
+
 Yo! I'm A Theme Based On The Anime Dragon Ball Super! <br>
 
 ![Author](https://img.shields.io/badge/author-thedevilx-red)

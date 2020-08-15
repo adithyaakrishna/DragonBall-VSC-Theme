@@ -3,7 +3,7 @@
 Yo! I'm A Theme Based On The Anime Dragon Ball Super! <br>
 
 ![Author](https://img.shields.io/badge/author-thedevilx-red)
-![License](https://img.shields.io/badge/license-MIT-brightgreen)(https://adithyaakrishna.github.io)
+![License](https://img.shields.io/badge/license-MIT-brightgreen)
 ![Platform](https://img.shields.io/badge/platform-Visual%20Studio%20Code-blue)
 ![Last Commit](https://img.shields.io/github/last-commit/thedevilx/dbs-vsc-theme)
 ![Maintained](https://img.shields.io/maintenance/yes/2020)

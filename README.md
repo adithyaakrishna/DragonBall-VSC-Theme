@@ -27,6 +27,6 @@ Yo! I'm A Theme Based On The Anime Dragon Ball Super! <br>
 ### For more information
 * [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-* [Contact Me](https://thedevilx.github.io/)
+* [Contact Me](https://adithyaakrishna.github.io/)
 
 **Enjoy!**

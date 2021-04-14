@@ -1,6 +1,6 @@
 # Dragon Ball Anime Based Visual Studio Code Theme
 
-Yo! I'm A Theme Based On The Anime Dragon Ball Super! <br>
+This A Theme Based On The Anime, Dragon Ball Super! <br>
 
 ![Author](https://img.shields.io/badge/author-thedevilx-red)
 ![License](https://img.shields.io/badge/license-MIT-brightgreen)

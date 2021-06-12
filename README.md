@@ -14,11 +14,11 @@ This A Theme Based On The Anime, Dragon Ball Super! <br>
 ![Stars](https://img.shields.io/visual-studio-marketplace/stars/thedevilx.dragon-ball)
 
 ![Version](https://img.shields.io/visual-studio-marketplace/v/thedevilx.drbon-ball)
-![Release Date](https://img.shields.io/github/release-date/thedevilx/dbs-vsc-theme)
-![Issues](https://img.shields.io/github/issues/thedevilx/dbs-vsc-theme)
-![Stars GitHub](https://img.shields.io/github/stars/thedevilx/dbs-vsc-theme)
-![Language](https://img.shields.io/github/languages/top/thedvilx/dbs-vsc-theme)
-![Size](https://img.shields.io/github/repo-size/thedevilx/dbs-vsc-theme)
+![Release Date](https://img.shields.io/github/release-date/adithyaakrishna/DragonBall-VSC-Theme)
+![Issues](https://img.shields.io/github/issues/adithyaakrishna/DragonBall-VSC-Theme)
+![Stars GitHub](https://img.shields.io/github/stars/adithyaakrishna/DragonBall-VSC-Theme)
+![Language](https://img.shields.io/github/languages/top/adithyaakrishna/DragonBall-VSC-Theme)
+![Size](https://img.shields.io/github/repo-size/adithyaakrishna/DragonBall-VSC-Theme)
 
 
 ## Preview
